@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Space Invaders game works. 
 
+- ([Youtube Demo](https://youtu.be/LGGnLAnUXvg))
+
 # 1.3 The Rules of Space Invaders
 
 The rules of Space Invader used for this implementation are as follow:
